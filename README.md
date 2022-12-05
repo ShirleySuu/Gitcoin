@@ -26,12 +26,15 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 ## Resources
 Tutorials:
+
 Developer tools:
+
 Documentations:
 
 ## Beyond Bounties
 
 Bounties are created to incentivize a wider base of devolpers and attract excellent projects to aelf, enriching our ecosystem.
 If existing bounties are not suitable for you or you have other exiting proposals to make, you can visit our [Ecosystem page](https://aelf.com/ecosystem.html) and submit your project there. 
+
 Make sure to get in touch with us via the group link provided above.
 
