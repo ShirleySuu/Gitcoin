@@ -8,13 +8,13 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 - Join our [Telegram Developer Community](https://t.me/aelfdeveloper) before you start working, our tech team is there to help you.
 
-- You should onlu submit your original work, the code of which should be open source and available on GitHub.
+- You should only submit your original work, the code of which should be open source and available on GitHub.
 
-- You submissions should include a demo of your work, either video or text depending on the specific bounty requirement, that explains its functionalities.
+- Your submissions should include a demo of your work, either video or text depending on the specific bounty requirement, that explains its functionalities.
 
 - For contest bounties, we encourage as many developers as possible to apply and will pay out to the best submission.
 
-- A submission needs to be evaluated as qualified to receive prize. Hence we reserve the right to withhold payment in the event that none of the submissions meet the standards.
+- A submission needs to be evaluated as qualified to receive prizes. Hence, we reserve the right to withhold payment in the event that none of the submissions meet the standards.
 
 - Payout will be made in ELF token, pegged to the USD value specified in individual bounties.
 
