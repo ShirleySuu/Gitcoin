@@ -1,3 +1,3 @@
-aelf Gitcoin
+# aelf Gitcoin
 
-- NFT Bridge aelf blockchain <-> EVM Chains [https://gitcoin.co/aelfproject/people]
+- [NFT Bridge aelf blockchain <-> EVM Chains](https://gitcoin.co/aelfproject/people)
