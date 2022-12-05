@@ -16,7 +16,7 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 - A submission needs to be evaluated as qualified to receive prize. Hence we reserve the right to withhold payment in the event that none of the submissions meet the standards.
 
-- Payout will be made in ELF token, pegging to the USD amount
+- Payout will be made in ELF token, pegged to the USD value specified in individual bounties.
 
 
 
