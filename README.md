@@ -25,11 +25,10 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 - [NFT Bridge aelf blockchain <-> EVM Chains](https://gitcoin.co/aelfproject/people)
 
 ## Resources
-Tutorials:
 
 Developer tools:
 
-Documentations:
+Documentation: https://docs.aelf.io/en/latest/
 
 ## Beyond Bounties
 
