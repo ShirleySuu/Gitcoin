@@ -16,7 +16,7 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 - A submission needs to be evaluated as qualified to receive prizes. Hence, we reserve the right to withhold payment in the event that none of the submissions meet the standards.
 
-- Payout will be made in ELF token, pegged to the USD value specified in individual bounties.
+- Payout will be made in $ELF, pegged to the USD value specified in individual bounties.
 
 
 
@@ -32,8 +32,8 @@ Documentation: https://docs.aelf.io/en/latest/
 
 ## Beyond Bounties
 
-Bounties are created to incentivize a wider base of devolpers and attract excellent projects to aelf, enriching our ecosystem.
-If existing bounties are not suitable for you or you have other exiting proposals to make, you can visit our [Ecosystem page](https://aelf.com/ecosystem.html) and submit your project there. 
+Bounties are created to incentivize a wider base of developers and attract excellent projects to aelf, enriching our ecosystem.
+If existing bounties are not suitable for you or you have other exciting proposals to make, you can visit our [Ecosystem page](https://aelf.com/ecosystem.html) and submit your project there. 
 
 Make sure to get in touch with us via the group link provided above.
 
