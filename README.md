@@ -1,4 +1,4 @@
-# aelf Gitcoin
+# aelf Bounties
 
 
 This repository is used to post issues, bounties, and hackathons on [Gitcoin](https://gitcoin.co/aelfproject).
