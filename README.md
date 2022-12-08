@@ -20,7 +20,7 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 
 
-## Bounties
+## Gitcoin Bounties
 
 - [NFT Bridge aelf blockchain <-> EVM Chains](https://gitcoin.co/aelfproject/people)
 
