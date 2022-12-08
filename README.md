@@ -26,8 +26,6 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 ## Resources
 
-Developer tools:
-
 Documentation: https://docs.aelf.io/en/latest/
 
 ## Beyond Bounties
