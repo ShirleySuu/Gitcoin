@@ -8,7 +8,7 @@ This repository is used to post issues, bounties, and hackathons on [Gitcoin](ht
 
 - Join our [Telegram Developer Community](https://t.me/aelfdeveloper) before you start working, our tech team is there to help you.
 
-- You should only submit your original work, the code of which should be open source and available on GitHub.
+- You should only submit your original work, the code of which should be open-source and available on GitHub.
 
 - Your submissions should include a demo of your work, either video or text depending on the specific bounty requirement, that explains its functionalities.
 
